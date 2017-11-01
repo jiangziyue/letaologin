@@ -1,4 +1,5 @@
-﻿'use strict';
+﻿+
+    'use strict';
 
 const mysql = require('mysql');
 
